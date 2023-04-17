@@ -1,3 +1,8 @@
 # ZOHAN
 
-Raynier,Adrian,Kenn,Princess present
+
+Adrian Bernabe Present
+Kenn present
+Princess present
+raynier present
+
